@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   &emsp;
-  <a href= "https://cdn.jsdelivr.net/gh/wugenqiang/PictureBed/images01/20200808182633.jpg" target="_blank">
+  <a href= "" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;
