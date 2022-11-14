@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;
-  <a href="https://www.lovemiaow.top" target="_blank">
+  <a href="http://www.lovemiaow.top/" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" width="30px"/>
   </a> 
   <br><br>
