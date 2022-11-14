@@ -1,4 +1,4 @@
-### <a href="https://www.lovemiaow.top" target="_blank">Hi here</a> 👋
+### <a href="http://www.lovemiaow.top/" target="_blank">Hi here</a> 👋
 
 <!--
 **loveMiaoW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
