@@ -11,4 +11,5 @@
      <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=lovemiaow&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 
-    ![](https://cdn.jsdelivr.net/gh/lovemiaow/lovemiaow/github-contribution-grid-snake-dark.svg)
+    ![暗色](https://cdn.jsdelivr.net/gh/lovemiaow/lovemiaow/github-contribution-grid-snake-dark.svg)
+
