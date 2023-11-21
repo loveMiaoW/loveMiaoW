@@ -16,3 +16,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lovemiaow/lovemiaow/github-contribution-grid-snake-dark.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/lovemiaow/lovemiaow/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+  <img align="right" src='https://github-readme-stats-git-master-lovemiaow.vercel.app/api/top-langs/?username=lovemiaow&theme=nord&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=true&border_radius=0' width="60%"/>
+  <img align="right" src='https://github-readme-stats-git-master-lovemiaow.vercel.app/api?username=lovemiaow&show_icons=true&theme=nord&count_private=true&hide_border=true&border_radius=0' width="60%"/>
