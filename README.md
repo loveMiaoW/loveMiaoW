@@ -10,3 +10,5 @@
     <a href="https://blog.lovemaiow.top/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
      <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=lovemiaow&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/lovemiaow/lovemiaow/github-contribution-grid-snake-dark.svg" />
