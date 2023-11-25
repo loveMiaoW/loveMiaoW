@@ -10,3 +10,5 @@
      <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=lovemiaow&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
+
+  [![lovemiaow's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveMiaoW&show_icons=true&theme=radical)]
