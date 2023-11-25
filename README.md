@@ -10,18 +10,3 @@
      <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=lovemiaow&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-<<<<<<< HEAD
-
-
-
-
-
-
-
-=======
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
->>>>>>> e8c1bce5dba580ca0dfe2745162bd12fcd5be47f
