@@ -10,5 +10,9 @@
      <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=lovemiaow&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
-  ![lovemiaow's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loveMiaoW&layout=compact&hide_border=true&langs_count=10)
