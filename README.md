@@ -16,5 +16,18 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/loveMiaoW/loveMiaoW/output/github-contribution-grid-snake.svg">
 </picture>
  <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=loveMiaoW&theme=nord&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=true&border_radius=0' width="60%"/>
-  <img align="right" src='https://github-readme-stats.vercel.app/api?username=loveMiaoW&show_icons=true&theme=nord&count_private=true&hide_border=true&border_radius=0' width="60%"/>
+ <img align="right" src='https://github-readme-stats.vercel.app/api?username=loveMiaoW&show_icons=true&theme=nord&count_private=true&hide_border=true&border_radius=0' width="60%"/>
+ 
+ # loveMiaoW
 
+> What i can not create, i do not understand. —— Richard Feynman
+
+Two steps to understand how a system works:
+
+- **Get a general high-level idea.**
+
+- **Deconstruct it from the low-level and re-implement it in a simplest way**。
+
+[笔记本](http://8.130.51.17/#/)
+
+[超炫酷的页面](blog.lovemaiow.top)
