@@ -31,3 +31,9 @@ Two steps to understand how a system works:
 [笔记本](http://8.130.51.17/#/)
 
 [超炫酷的页面](blog.lovemaiow.top)
+
+一些有趣的项目
+- [noteServer](https://github.com/loveMiaoW/noteServer)
+
+我的博客所有代码都在这里，文章都是 .md，整个博客几乎是静态的，服务端只提供了从文件系统生成侧栏结构的接口。
+文章托管在 gitee 上，用[这个脚本]()自动推送，服务端会定时拉取。
