@@ -30,10 +30,18 @@ Two steps to understand how a system works:
 
 [笔记本](http://8.130.51.17/#/)
 
-[超炫酷的页面](blog.lovemaiow.top)
+[超炫酷的页面](https://blog.lovemaiow.top/)
+
+[导航栏目](https://www.lovemaiow.top/)
 
 一些有趣的项目
 - [noteServer](https://github.com/loveMiaoW/noteServer)
 
 我的博客所有代码都在这里，文章都是 .md，整个博客几乎是静态的，服务端只提供了从文件系统生成侧栏结构的接口。
 文章托管在白嫖的阿里云服务器上，用[这个脚本](https://github.com/loveMiaoW/aboutGit)自动推送，服务端会定时拉取。
+
+- [炫酷页面](https://blog.lovemaiow.top/)
+
+学习three.js，爬的[lusion](https://lusion.co/about)前端代码。
+尽管存在很多bug，但它依然在正常运行，并且还能适配移动端。
+由于无cnd加速，加载缓慢。
