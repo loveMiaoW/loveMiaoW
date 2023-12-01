@@ -42,6 +42,6 @@ Two steps to understand how a system works:
 
 - [炫酷页面](https://blog.lovemaiow.top/)
 
-学习three.js，爬的[lusion](https://lusion.co/about)前端代码。
+学习three.js，爬的[lusion](https://lusion.co/about)前端文件。
 尽管存在很多bug，但它依然在正常运行，并且还能适配移动端。
 由于无cnd加速，加载缓慢。
