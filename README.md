@@ -46,14 +46,10 @@ Two steps to understand how a system works:
 尽管存在很多bug，但它依然在正常运行，并且还能适配移动端。
 由于无cnd加速，加载缓慢。
 
-- [数据库连接池](https://blog.lovemaiow.top/)
+- [数据库连接池](https://github.com/loveMiaoW/mysqlAndMysqlConnectionPool.git)
 
-学习three.js，爬的[lusion](https://lusion.co/about)前端文件。
-尽管存在很多bug，但它依然在正常运行，并且还能适配移动端。
-由于无cnd加速，加载缓慢。
+C++实现的MySQL数据连接池，巴拉巴拉巴拉
 
 - [基于x86架构的操作系统](https://blog.lovemaiow.top/)
 
-学习three.js，爬的[lusion](https://lusion.co/about)前端文件。
-尽管存在很多bug，但它依然在正常运行，并且还能适配移动端。
-由于无cnd加速，加载缓慢。
+小小毕设，_osx86
