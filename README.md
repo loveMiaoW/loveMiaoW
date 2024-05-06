@@ -50,6 +50,6 @@ Two steps to understand how a system works:
 
 C++实现的MySQL数据连接池，巴拉巴拉巴拉
 
-- [基于x86架构的操作系统](https://blog.lovemaiow.top/)
+- [基于x86架构的操作系统](#)
 
 小小毕设，_osx86
