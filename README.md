@@ -1,10 +1,10 @@
   <!-- dynamic typing effect 动态打字效果 -->
 
   <div align="center">
-    <a href="http://8.130.91.44/">
+    <!-- <a href="http://8.130.91.44/">
       <img src="./helloworld.svg" alt="Typing SVG" />
     </a>
-    <br>
+    <br> -->
     <a>
       <img src="./loveMiaoW.svg" alt="Typing SVG" />
     </a>
