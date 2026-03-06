@@ -15,8 +15,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loveMiaoW/loveMiaoW/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/loveMiaoW/loveMiaoW/output/github-contribution-grid-snake.svg">
 </picture>
- <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=loveMiaoW&theme=nord&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=true&border_radius=0' width="60%"/>
- <img align="right" src='https://github-readme-stats.vercel.app/api?username=loveMiaoW&show_icons=true&theme=nord&count_private=true&hide_border=true&border_radius=0' width="60%"/>
+
  
  # loveMiaoW
 
