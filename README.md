@@ -2,7 +2,7 @@
 
   <div align="center">
     <a href="http://8.130.91.44/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝您天天愉快!&center=true&size=27" alt="Typing SVG" />
+      <img src="./helloworld.svg;祝您天天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
   <div align="center">
