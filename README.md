@@ -2,7 +2,7 @@
 
   <div align="center">
     <a href="http://8.130.91.44/">
-      <img src="./helloworld.svg;祝您天天愉快!&center=true&size=27" alt="Typing SVG" />
+      <img src="./helloworld.svg" alt="Typing SVG" />
     </a>
   </div>
   <div align="center">
