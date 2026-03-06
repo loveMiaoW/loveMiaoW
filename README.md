@@ -1,7 +1,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
 
   <div align="center">
-    <a href="https://8.130.91.44/">
+    <a href="https://8.130.44.91/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝您天天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
@@ -28,11 +28,11 @@ Two steps to understand how a system works:
 
 - **Deconstruct it from the low-level and re-implement it in a simplest way**。
 
-[笔记本](http://8.130.51.17/#/)
+[笔记本](http://8.130.44.91:8090/#/)
 
-[超炫酷的页面](https://blog.lovemaiow.top/)
+[超炫酷的页面](https://8.130.44.91/)
 
-[导航栏目](https://www.lovemaiow.top/)
+[导航栏目](https://8.130.44.91/)
 
 一些有趣的项目
 - [noteServer](https://github.com/loveMiaoW/noteServer)
